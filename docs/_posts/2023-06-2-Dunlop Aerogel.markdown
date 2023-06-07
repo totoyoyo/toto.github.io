@@ -81,3 +81,5 @@ Like net shots, serves with the 8000xl are prone to become bouncy and loose. Aga
 
 ## Summary
 I think of the 8000xl as a teaching tool. At the backcourt, the super-flexible shaft allows you to swing rather slowly and generate good power, so you can really focus on your technique while swinging. You can get full-length clears easily and lift defense is effortless. However, netplay is a huge weakness of the 8000xl, so you will have to give up control of the net and lift often. I noticed that I made fewer mistakes with the 8000xl, but maybe it's because the 8000xl encourages a passive style of play. All in all, very interesting racket to try if you have never played with a super head-light & super flexible racket. I probably won't use this for competitive games, but this racket is perfect for more relaxed sessions with lots of lifting and clears. 
+
+![img](\assets\bs15.jpg)
