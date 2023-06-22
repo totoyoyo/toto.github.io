@@ -1,2 +1,4 @@
 bundle exec jekyll serve --livereload
 
+Gem Directory:
+C:\Ruby32-x64\lib\ruby\gems\3.2.0\gems

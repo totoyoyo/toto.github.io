@@ -10,8 +10,7 @@ Hello~
 
 This is my first badminton racket review! I write these reviews just so I can recall my own experiences with a racket. As I have gathered quite a large number of rackets, sometimes I forget how one racket feels after not using it for a while. Also, once I finish a review, I feel that I have *completed* the racket, so I can sell it off with no regrets! My bag is getting too full T_T. Anyways, let's get started with a classic racket, the __Dunlop Aerogel 8000xl Limited Edition__.
 
-# TODO
-add pictures
+![img](\assets\8000xl.jpg){:style="display:block; margin-left:auto; margin-right:auto" width="50%"}
 
 Highlights:
 - Super flexible shaft. One of the most flexible rackets out there
@@ -33,6 +32,9 @@ Almost all high-end rackets market themselves as stiff. You can easily find stif
 
 Maybe because I've used stiff rackets my whole life, I was curious how a flexible racket really feels. What's better than to just try the MOST flexible racket out there? It went for only around 1800 THB, so it's worth a try.
 
+![img](\assets\8000xl_flex.jpg){:style="display:block; margin-left:auto; margin-right:auto" width="50%"}
+
+
 ## Setup and Specs
 The racket is strung with an RSL 0.66 string at 24x26 lbs. The string was a free add-on and performed surprisingly well, but I'll focus more on the racket. I left the plastic film on, and I added 1 layer of cushion foam and 1 overgrip on top. 
 
@@ -46,8 +48,7 @@ Strung + plastic film + foam + overgrip:
 
 From the specs, you can tell the racket is extremely headlight. Even with the string on and no changes to the handle, the balance point is 283mm. Most of my past rackets would exceed 295mm after stringing. Yet, you can really feel the headweight of the racket when swinging it; the racket does not feel head-light when swinging! This is likely due to the super flexible shaft, making the racket-head lag very noticeable. Maybe extra-headlight + extra-flexible goes together the same way extra-headheavy + extra-stiff goes together.
 
-# TODO
-add pictures
+![img](\assets\8000xl_frame.jpg){:style="display:block; margin-left:auto; margin-right:auto" width="50%"}
 
 ## First Impressions
 My first hitting experience was a disaster. I couldn't use the racket at all! The shift to an extra-flexible racket was so extreme I could barely hit the shuttle anywhere near where I wanted. I have recently let 4 other people borrow this racket, and half of them found it completely unusable. If I had the same time to test it out as them, I would probably agree!
@@ -82,4 +83,4 @@ Like net shots, serves with the 8000xl are prone to become bouncy and loose. Aga
 ## Summary
 I think of the 8000xl as a teaching tool. At the backcourt, the super-flexible shaft allows you to swing rather slowly and generate good power, so you can really focus on your technique while swinging. You can get full-length clears easily and lift defense is effortless. However, netplay is a huge weakness of the 8000xl, so you will have to give up control of the net and lift often. I noticed that I made fewer mistakes with the 8000xl, but maybe it's because the 8000xl encourages a passive style of play. All in all, very interesting racket to try if you have never played with a super head-light & super flexible racket. I probably won't use this for competitive games, but this racket is perfect for more relaxed sessions with lots of lifting and clears. 
 
-![img](\assets\bs15.jpg)
+![img](\assets\8000xl_shaft.jpg "8000XL Shaft Image"){:style="display:block; margin-left:auto; margin-right:auto" width="50%"}
